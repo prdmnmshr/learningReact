@@ -1,0 +1,23 @@
+{
+  "name": "learningreact",
+  "version": "1.0.0",
+  "description": "This is for practice purpose",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradyuman",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/prdmnmshr/learningReact.git)"
+  },
+  "keywords": [
+    "react",
+    "learning",
+    "pradyuman"
+  ],
+  "devDependencies": {
+    "parcel": "^2.10.1"
+  }
+}
